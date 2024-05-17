@@ -42,8 +42,8 @@ Double click on the the MCU part to open settings. Next to the Program File opti
 click on debug and simulate using simulation 
  
 ## Program
-### DEVELOPED BY : Gumma Dileep Kumar
-### REGISTER NO : 212222240032
+### DEVELOPED BY : RAKESH J.S
+### REGISTER NO : 212222230115
 ```python
 #include "main.h"
 #include "stdbool.h"
